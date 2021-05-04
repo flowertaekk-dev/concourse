@@ -6,5 +6,5 @@ image_resource:
   source: {repository: node}
 
 run:
-  path: yarn install
+  path: npm install
 
