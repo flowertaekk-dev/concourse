@@ -6,5 +6,6 @@ image_resource:
   source: {repository: node}
 
 run:
-  path: npm install
+  path: npm 
+  args: --version
 
