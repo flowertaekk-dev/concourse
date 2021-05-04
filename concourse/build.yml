@@ -7,5 +7,4 @@ image_resource:
 
 run:
   path: yarn install
-  path: yarn run build --prod
 
